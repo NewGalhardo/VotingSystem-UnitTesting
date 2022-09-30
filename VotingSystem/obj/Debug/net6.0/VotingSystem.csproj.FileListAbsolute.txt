@@ -1,0 +1,12 @@
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.csproj.AssemblyReference.cache
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfoInputs.cache
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfo.cs
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.deps.json
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.dll
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\bin\Debug\net6.0\VotingSystem.pdb
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.dll
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\refint\VotingSystem.dll
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\VotingSystem.pdb
+C:\Users\lucagal\source\repos\VotingSystem\VotingSystem\obj\Debug\net6.0\ref\VotingSystem.dll
